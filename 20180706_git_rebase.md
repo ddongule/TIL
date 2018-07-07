@@ -35,7 +35,9 @@
   ~~~
 - cp : 파일 복사
 - mv : 파일 이동 [끝의 마침표는 해당 주소로 그 파일을 옮길꺼임 이라는 뜻] 
+
   mv original_file new_file_path [이동 후 경로가 현재 경로인 경우엔 .을 찍어줌]
+  
   ex) 
   ~~~
   mv ~/data/TWL/ .
